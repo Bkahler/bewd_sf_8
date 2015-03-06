@@ -30,7 +30,6 @@ puts "# example: #{my_variable == 'example'}"
 # HINT: You will reuse this array below.
 
 # answer_check (un-comment the puts statement below and ruby 'ruby array_exercise' to check your solution)
-
 puts "# 0: #{my_numbers == []}"
 #--------------------------------------------
 
