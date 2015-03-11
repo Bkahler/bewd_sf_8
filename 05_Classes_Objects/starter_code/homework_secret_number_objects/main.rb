@@ -37,7 +37,7 @@
 # Tip: Refer to your secret number homework when helpful.
 
 require_relative 'lib/game'
-require_relative 'lib/person'
+require_relative 'lib/player'
 require_relative 'lib/secret_number'
 
 # TODO: put code here print a welcome message for your user
