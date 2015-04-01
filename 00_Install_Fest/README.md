@@ -17,7 +17,7 @@ If you have already experimented with ruby or rails before, verify your versions
 
 Should be "ruby 2.2" (other versions above 2.2.0 are acceptable)
 
-**Verify you are running version 3 of Rails**
+**Verify you are running version 4 of Rails**
 
 `rails -v`
 
@@ -135,7 +135,7 @@ git config --global credential.helper cache
 
 **Installing Ruby**
 
-The install on Windows is actually very with the bundle from http://rubyinstaller.org
+The install on Windows is actually very easy with the bundle from http://rubyinstaller.org
 
 Just be sure to grab the 2.2.0 version, as that will be the version we will be using in class. This will set up your environment and you can start running ruby files right away.
 
